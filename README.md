@@ -38,6 +38,26 @@ Master Budget - это веб-приложение для управления �
     php yii migrate
     ```
 
+    5. **Добавьте свои данные в masterbudget.json**:
+{
+  "type": "service_account",
+  "project_id": "masterbudget",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": "googleapis.com"
+}
+    Выполните миграции, чтобы создать таблицы в базе данных:
+
+    ```shell
+    php yii migrate
+    ```
+
 6. **Запустите приложение**:
     ```shell
     php yii google-api
