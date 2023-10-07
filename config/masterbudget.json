@@ -1,13 +1,2 @@
 {
-  "type": "service_account",
-  "project_id": "masterbudget",
-  "private_key_id": "99b396c7a04e43458144d6d9b599e37d51ddc806",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCvbzfEk8bdCWvG\nCNbWKykLxRGAOm9wEOExkv6tT+FJdDYnBJeaQQu2bQSirzAB5cBECpfUFoeuI6iZ\nxqd8qVMyQn5W6DDjtkW3H2MgSJkxq5SQaYH4pSR4EGppmRQ3YbZHzwP11sdZR0fW\nDiyLXlengO2wk1Kp+jdJfAnTvrscd7ux26GUscLi4MjD6hzYz9ZPTnQdNn6w9Y5g\nfF2vPUqZKOwjiEx3RCKht+tOXrKGONPNL5kyd6YMtHj2E72Ovgz7APxWG/+QM3/s\n8W4jL684B+x8vTRg81MbrFk8N0hJfm+axNmLxnSuHHfjvMLitkVcVwijJ/epIaFL\ntg2IZmhbAgMBAAECggEAGtUizVJ296bcZj6YMXYKLKPYhel/fZSvWj2WmMaKJDR9\n9eDPbpylSyKIiM4ibx/cv5YehntoXDurACjbbtyX04JKavDPotHlqYPHow/yPR/L\ntNIrusPzfIOyQEgqyJUNjr/R5hToNQu10pPPagT6Li4GQjF+UsOTwjhnvmHColtH\n+nZLoTSyP+TlxfOtSAAcUp2fEvxSKrXcVwkVI58Pd8P7JImJlJA3Y4C7h1STXZut\nNbH95BNUMPB5VbVv4cLrWN46FXSN009G7UuPQ+3iFscqU9pL9R1BviY9UqzuS2G9\nWet1WwvS/nK+MUaAtvYkPg4KBBRsrhwYWob5AVWpqQKBgQDspXZVt3vlTR+pIuVV\nqrj0Kzdh8oIh+jYrME3bWzZIh4qlob8ioV0P4PP07zZB85vljvdP4jw6CEWiZCem\nEzJrdmrVuO3vYJY+Xuh08m3CMASzcUDP0fI4N1BnJzuBfERf43ePkS/q6Lg9THOu\nGhv+P72jcX2B7BzEAveSsvajiQKBgQC9yDHoxbF9JrKuYBLszrMBHCLYCpDz2Fom\nKBZ2u4YcHEPfnRUgZokyZzSFY6VcATe4LhLxFAfgjdViMBIUMQXnv1iOUcoGBl/d\n4dvs0kAcKwzPYWi9tImAHDn5nBMkMc2kTqBJ01Rt2Y6f3sO3Ud7iKczMq9i51mtN\ng0NNwxhfwwKBgQDAt2LuHVW1gCBHglaXdEfY+JTKnE6j0vtoIpdVCyvi1xbvGhDo\n59Y8xyqFDoX2IaiUwt/e21PGwtPKkpvDYKDP6QjJ8ic6qULRmkLecks2OBqr85Af\nbk8+vrUovEd2hLe+CyVj8o2+VTUtHmSapUKkxE3wm8zlEF7AtdXeTwYSWQKBgQCP\nf5pNWX41FVeyBi8JI9myEyY9mO+1kXfItjMWIADtrGmd4VaiIyXGGMdbvNbB1KHe\n/+eOpgi2wEgCcDqbTd4bN1Gseyd4msVOLoNudCPJqLuM6yiZmLMHTVCA7oSCr63A\neTs11zdVwFTZiUUPjjYraFPUxnOfQQPtnjz7xXLepQKBgQDesYpEyNRvgd8bRiZX\nSWmPPSN8Y3jzR1UHn+p84OoiWDD78XheDll66UP5bz71t4z3cPpjrRHL4Ajfk918\nMPInKB3eBT5qyPZy9v05MgYiXFWRLsDMTXqtXNEfC32+M/RRjxZzqoJwur75mPqD\nhjG7v4rWeRQ3XyPm+V8FD2C/Xg==\n-----END PRIVATE KEY-----\n",
-  "client_email": "masterbudget@masterbudget.iam.gserviceaccount.com",
-  "client_id": "111810094089639989640",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/masterbudget%40masterbudget.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
 }
